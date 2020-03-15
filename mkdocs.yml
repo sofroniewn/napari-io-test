@@ -1,0 +1,10 @@
+site_name: napari-io-test
+site_description: A napari IO test plugin
+site_author: Nicholas Sofroniew
+
+theme: readthedocs
+
+repo_url: https://github.com/sofroniewn/napari-io-test
+
+pages:
+- Home: index.md
